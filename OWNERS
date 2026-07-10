@@ -10,6 +10,7 @@ filters:
       - sig-architecture-approvers # for OWNERS_ALIASES and other root files
     emeritus_approvers:
       - bgrant0607
+      - picachu
       - brendandburns
       - dchen1107
       - jbeda
